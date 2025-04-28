@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/40798acd-4e09-4cc5-acad-a0893ba42ae1)EX-21-POINTERS
+EX-21-POINTERS
 # AIM:
 Write a C program to convert a 23.65 into 25 using pointer
 
